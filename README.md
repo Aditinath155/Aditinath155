@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditinath155
+
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning on Python
 - 💞️ I’m looking to collaborate on Data Analyst\Scientist

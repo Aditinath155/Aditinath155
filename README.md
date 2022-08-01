@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science with Python
 - 💞️ I’m looking to collaborate on Data Scientist\Data Analyst
-      I am well versed with Machine Learning Algorithm
+-I have excellent understanding of Exploratory data analyses and Data mining/ Cleaning process with Python .Knowledge on Probability and Stats concepts behind ML Algorithms.
 - 📫 How to reach me (aditinath155@gmail.com)
 
 <!---

@@ -1,7 +1,8 @@
 
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning on Python
-- 💞️ I’m looking to collaborate on Data Analyst\Scientist
+- 🌱 I’m currently learning Data Science with Python
+- 💞️ I’m looking to collaborate on Data Scientist\Data Analyst
+      I am well versed with Machine Learning Algorithm
 - 📫 How to reach me (aditinath155@gmail.com)
 
 <!---
